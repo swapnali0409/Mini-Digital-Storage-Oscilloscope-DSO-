@@ -1,4 +1,4 @@
-<img width="845" height="716" alt="image" src="https://github.com/user-attachments/assets/1b44fd2b-d292-484a-b7f0-53829ac23832" />
+
 # Mini Digital Storage Oscilloscope (DSO)
 
 A compact, low-cost **Mini Digital Storage Oscilloscope (DSO)** developed using an **ESP8266 microcontroller** and a **TFT display** for real-time signal acquisition, waveform visualization, and basic frequency-domain analysis using **FFT**.
