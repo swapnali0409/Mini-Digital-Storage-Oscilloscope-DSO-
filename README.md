@@ -357,13 +357,10 @@ Mini-DSO/
 ```
 
 ## 📸 Project Demonstration
+
 <img width="555" height="713" alt="image" src="https://github.com/user-attachments/assets/48b39445-4e6f-4f1d-afa3-b3021fe0588c" />
 
-
-
 <img width="845" height="716" alt="image" src="https://github.com/user-attachments/assets/73c559bf-d362-4c60-8ae3-24770fd9ce08" />
-
-
 
 <img width="837" height="710" alt="image" src="https://github.com/user-attachments/assets/038edc8a-a339-4ac9-9f6c-808c74c0e2de" />
 
